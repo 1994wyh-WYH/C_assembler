@@ -1,1 +1,1 @@
-# C_disassembler_opcode-0001
+# C_disassembler for instructions having opcode=0001
