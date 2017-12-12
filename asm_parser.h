@@ -3,7 +3,6 @@
 /* Purpose   : this header file declares the functions for those		*/
 /*             in the "asm_parser.c" library 							*/
 /*             standard "string.h" C-library.							*/
-/* Author(s) : tjf and you												*/
 /************************************************************************/
 
 #define ROWS 100
