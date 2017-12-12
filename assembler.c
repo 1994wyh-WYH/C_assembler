@@ -2,8 +2,7 @@
 /* File Name : assembler.c 												*/
 /* Purpose   : This program will assemble a .ASM file into a .OBJ file  */
 /*             This program will use the "asm_parser" library to achieve*/
-/*			   its functionality.										*/ 
-/* Author(s) : tjf and you												*/
+/*			   its functionality.										*/ 												*/
 /************************************************************************/
 
 #include <stdio.h>
