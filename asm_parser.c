@@ -1,9 +1,7 @@
 /************************************************************************/
 /* File Name : asm_parser.c 											*/
 /* Purpose   : the functions are declared in asm_parser.h 				*/
-/*             The intention of this library is to parse a .ASM file 	*/
-/*             															*/
-/* Author(s) : tjf and you												*/
+/*             The intention of this library is to parse a .ASM file 	*/												*/
 /************************************************************************/
 
 #include <stdio.h>
